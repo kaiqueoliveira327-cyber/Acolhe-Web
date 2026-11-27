@@ -1,0 +1,4 @@
+Coloque aqui os arquivos que o Acolhe pode consultar (.pdf, .txt, .md ou .csv):
+por exemplo, uma lista de CAPS/UBS com endereço e telefone, ou uma cartilha do Ministério da Saúde.
+Reinicie o servidor (python app.py) depois de adicionar ou trocar arquivos.
+Este arquivo (LEIAME) é ignorado.
