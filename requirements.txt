@@ -1,0 +1,4 @@
+flask
+python-dotenv
+pypdf
+gunicorn; sys_platform != "win32"
